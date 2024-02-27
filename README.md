@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Varun!
 
-Passionate | Enthusiast | Developer
+Passionate | Enthusiast | Developer | Entrepreneur
 
 Welcome to my GitHub profile! I'm a Software Developer based in India.
 
