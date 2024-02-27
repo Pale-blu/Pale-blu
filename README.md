@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @Pale-blu(Varun)
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning DApp Development
-- 💞️ I’m looking to collaborate on any kind of development based work on GitHub 
-- 📫 How to reach me discord- Pale_Blue #6215
+# 👋 Hello, I'm Varun!
 
-<!---
-Pale-blu/Pale-blu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate | Enthusiast | Developer
+
+Welcome to my GitHub profile! I'm a Software Developer based in India.
+
+## 🚀 About Me
+
+- 👨‍💻 I'm currently working as a DevOps Developer.
+- 🎓 I hold a degree in Computer Engineering.
+- 💡 I love exploring new technologies and developing software solutions.
+
+## 🔧 Technologies & Tools
+
+![JAVA]
+![Python].
+![JavaScript].
+![Node.js].
+![ReactJS].
+![Ansible].
+<!-- Add more technologies as per your skills -->
+
+## 🌱 Currently Learning
+
+I'm currently diving deeper into:
+
+- 🌐 AWS
+- 📱 MERN
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/varun-surti-2aa918195
+- Portfolio: https://dynamaxsolutions.github.io/Dynamax/Resumes/VarunResume.html
+- Instagram: https://www.instagram.com/varunn_30/
+
+Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or just want to chat. 😊
