@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Software Developer based in India.
 
 ## 🚀 About Me
 
-- 👨‍💻 I'm currently working as a DevOps Developer.
+- 👨‍💻 I'm currently working as a Fullstack Developer.
 - 🎓 I hold a degree in Computer Engineering.
 - 💡 I love exploring new technologies and developing software solutions.
 
