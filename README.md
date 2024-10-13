@@ -12,12 +12,13 @@ Welcome to my GitHub profile! I'm a Software Developer based in India.
 
 ## 🔧 Technologies & Tools
 
-![JAVA]
+![JAVA].
 ![Python].
 ![JavaScript].
 ![Node.js].
 ![ReactJS].
 ![Ansible].
+![Jenkins].
 <!-- Add more technologies as per your skills -->
 
 ## 🌱 Currently Learning
