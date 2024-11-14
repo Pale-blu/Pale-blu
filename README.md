@@ -17,6 +17,7 @@ Python.
 JavaScript.
 Node.js.
 ReactJS.
+AngularJS.
 Ansible.
 Docker.
 Jenkins.
