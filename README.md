@@ -35,7 +35,7 @@ I'm currently diving deeper into:
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/varun-surti-2aa918195
-- Portfolio: https://dynamaxsolutions.github.io/Dynamax/Resumes/VarunResume.html
+- Portfolio: https://pale-blu.github.io
 - Instagram: https://www.instagram.com/varunn_30/
 
 Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or just want to chat. 😊
