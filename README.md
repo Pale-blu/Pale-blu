@@ -6,29 +6,31 @@ Welcome to my GitHub profile! I'm a Software Developer based in India.
 
 ## 🚀 About Me
 
-- 👨‍💻 I'm currently working as a Fullstack Developer.
+- 👨‍💻 I'm currently working as a Senior FullStack Developer.
 - 🎓 I hold a degree in Computer Engineering.
 - 💡 I love exploring new technologies and developing software solutions.
 
 ## 🔧 Technologies & Tools
 
-JAVA.
+Django
 Python.
+GenAI.
+ReactJS.
 JavaScript.
 Node.js.
-ReactJS.
 AngularJS.
 Ansible.
 Docker.
 Jenkins.
+JAVA.
 <!-- Add more technologies as per your skills -->
 
 ## 🌱 Currently Learning
 
 I'm currently diving deeper into:
 
-- 🌐 AWS
-- 📱 MERN
+- AI/ML
+- System Design
 
 ## 📫 Let's Connect
 
