@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a Software Developer based in India.
 
 ## 🔧 Technologies & Tools
 
-Django
+Django.
 Python.
 GenAI.
 ReactJS.
